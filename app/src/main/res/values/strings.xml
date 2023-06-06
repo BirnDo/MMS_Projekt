@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MMS_Projekt</string>
+    <string name="preference_file_key">mainActivityPreferences</string>
+    <string name="transcript_key">transcript_key</string>
+    <string name="summary_key">summary_key</string>
+    <string name="video_key">video_key</string>
+    <string name="transcript_key_key">transcript_key_key</string>
+    <string name="createSummary">createSummary</string>
+</resources>
